@@ -639,7 +639,7 @@ function timer() {
   const currentMonth = new Date().getMonth();
   const deadline = document.querySelector('#deadline');
   const monthStorage = ['января', 'февраля', 'марта', 'апреля', 'мая', 'июня', 'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря'];
-  deadline.innerHTML = `20 ${monthStorage[currentMonth]} в 00:00`;
+  deadline.innerHTML = `20 ${monthStorage[currentMonth+1]} в 00:00`;
 
   const addZero = num => {
     if (num >= 0 && num < 10) {
@@ -649,7 +649,7 @@ function timer() {
     }
   };
 
-  const endtime = `2022-${addZero(currentMonth + 1)}-20`;
+  const endtime = `2022-${addZero(currentMonth + 2)}-20`;
 
   function calcDeadline(endtime) {
     let days, hours, minutes, seconds;
