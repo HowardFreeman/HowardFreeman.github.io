@@ -1,0 +1,56 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_537_591)">
+<rect x="25.7915" y="25.1057" width="16.5714" height="33.9994" transform="rotate(20.3749 25.7915 25.1057)" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<path d="M0.682794 44.7039L7.72609 25.7396L25.4975 25.4865L13.9806 56.4959L0.682794 44.7039Z" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<path d="M47.5546 62.1122L29.7832 62.3652L41.3 31.3558L54.5979 43.1479L47.5546 62.1122Z" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<line x1="57.3623" y1="24.6403" x2="63.9155" y2="29.2289" stroke="#002737" stroke-width="2"/>
+<path d="M63.5 28.9609H89C93.9706 28.9609 98 32.9904 98 37.9609V73.9609H63.5V28.9609Z" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<line x1="60.4423" y1="33.9609" x2="60.4423" y2="67.9609" stroke="#002737" stroke-width="2"/>
+<line x1="57.4423" y1="38.9609" x2="57.4423" y2="67.9609" stroke="#002737" stroke-width="2"/>
+<line x1="32.4423" y1="64.9609" x2="45.4423" y2="64.9609" stroke="#002737" stroke-width="2"/>
+<line x1="83.4423" y1="23.9609" x2="83.4423" y2="29.9609" stroke="#002737" stroke-width="2"/>
+<rect x="27" y="68" width="65" height="6" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<path d="M89 37H73V68H92V40C92 40 92 39 91 38C90 37 89 37 89 37Z" stroke="#002737" stroke-width="2"/>
+<path d="M89 37H68V51H92V40C92 40 92 39 91 38C90 37 89 37 89 37Z" stroke="#002737" stroke-width="2"/>
+<line x1="89" y1="41" x2="89" y2="49" stroke="#002737" stroke-width="2"/>
+<line y1="-1" x2="8" y2="-1" transform="matrix(0 1 1 0 96 61)" stroke="#002737" stroke-width="2"/>
+<mask id="mask0_537_591" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="41" y="64" width="22" height="11">
+<rect x="41.4423" y="64.4609" width="21" height="10.5" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_537_591)">
+<circle cx="51.9423" cy="74.9609" r="9.5" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+</g>
+<circle cx="51.9423" cy="74.9609" r="6.5" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<circle cx="51.9423" cy="74.9609" r="1" fill="#002737" stroke="#002737"/>
+<mask id="mask1_537_591" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="62" y="59" width="22" height="16">
+<rect x="62.4423" y="59" width="21" height="16" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_537_591)">
+<path d="M82.4423 75C82.4423 79.2515 81.3095 83.0547 79.5308 85.7651C77.7466 88.4839 75.396 90 72.9423 90C70.4886 90 68.1379 88.4839 66.3537 85.7651C64.575 83.0547 63.4423 79.2515 63.4423 75C63.4423 70.7485 64.575 66.9453 66.3537 64.2349C68.1379 61.5161 70.4886 60 72.9423 60C75.396 60 77.7466 61.5161 79.5308 64.2349C81.3095 66.9453 82.4423 70.7485 82.4423 75Z" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+</g>
+<circle cx="72.9423" cy="74.9609" r="6.5" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<circle cx="72.9423" cy="74.9609" r="1" fill="#002737" stroke="#002737"/>
+<mask id="mask2_537_591" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="64" width="11" height="11">
+<rect x="0.442261" y="64.4609" width="10.5" height="10.5" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask2_537_591)">
+<circle cx="10.9423" cy="74.9609" r="9.5" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+</g>
+<mask id="mask3_537_591" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="25" y="64" width="12" height="11">
+<rect width="10.5" height="10.5" transform="matrix(-1 0 0 1 36.4423 64.4609)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask3_537_591)">
+<circle cx="10.5" cy="10.5" r="9.5" transform="matrix(-1 0 0 1 36.4423 64.4609)" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+</g>
+<circle cx="10.9423" cy="74.9609" r="6.5" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<circle cx="25.9423" cy="74.9609" r="6.5" fill="#F9F9F9" stroke="#002737" stroke-width="2"/>
+<circle cx="10.9423" cy="74.9609" r="1" fill="#002737" stroke="#002737"/>
+<circle cx="25.9423" cy="74.9609" r="1" fill="#002737" stroke="#002737"/>
+<line x1="10.9423" y1="65.4609" x2="25.9423" y2="65.4609" stroke="#002737" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_537_591">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
